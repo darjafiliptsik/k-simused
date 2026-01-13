@@ -2,4 +2,4 @@
 2.mis on Pyton
 3.mis tehke funtsioon MIN()
 4.mis tehke funktsioon if
-5.mis tehke funktsioon While true 
+5.mis tehke funktsioon While true
