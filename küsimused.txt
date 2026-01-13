@@ -5,5 +5,8 @@ leiab suurima väärtuse
 programmeerimiskeel
 
 3.mis tehke funtsioon MIN()
+leiab väikseima väärtuse
+
 4.mis tehke funktsioon if
+
 5.mis tehke funktsioon While true
