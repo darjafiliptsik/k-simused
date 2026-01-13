@@ -1,5 +1,5 @@
-1.mis tehke funtsioon MAX()
-2.mis on Pyton
-3.mis tehke funtsioon MIN()
-4.mis tehke funktsioon if 
-5.mis tehke funktsioon While true
+MAX() – tagastab suurima arvu.
+Python – programmeerimiskeel.
+MIN() – tagastab väikseima arvu.
+if – tingimuslause.
+while True – lõpmatu tsükkel.
