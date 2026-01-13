@@ -11,3 +11,4 @@ leiab väikseima väärtuse
 tingimuslause, kontrollib tingimust
 
 5.mis tehke funktsioon While true
+lõpmatu tsükkel
