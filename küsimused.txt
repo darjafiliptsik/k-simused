@@ -7,3 +7,4 @@ tagastab väikseima arvu
 4.mis tehke funktsioon if
 kontrollib tingimust ja teeb midagi, kui see on tõene
 5.mis tehke funktsioon While true
+lõpmatu tsükkel, kestab seni, kuni katkestad
