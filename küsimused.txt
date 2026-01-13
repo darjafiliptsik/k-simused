@@ -1,4 +1,5 @@
 1.mis tehke funtsioon MAX() 
+tagastab suurima arvu
 2.mis on Pyton
 3.mis tehke funtsioon MIN()
 4.mis tehke funktsioon if
