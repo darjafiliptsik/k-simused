@@ -1,5 +1,14 @@
 1.mis tehke funtsioon MAX() 
-2.mis on Pyton
+leiab suurima väärtuse.
+
+2.mis on Python
+programmeerimiskeel.
+
 3.mis tehke funtsioon MIN()
+leiab väikseima väärtuse.
+
 4.mis tehke funktsioon if
+tingimuslause, kontrollib tingimust.
+
 5.mis tehke funktsioon While true
+lõpmatu tsükkel.
