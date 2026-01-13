@@ -8,5 +8,6 @@ programmeerimiskeel
 leiab väikseima väärtuse
 
 4.mis tehke funktsioon if
+tingimuslause, kontrollib tingimust
 
 5.mis tehke funktsioon While true
